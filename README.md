@@ -30,7 +30,8 @@ A significant number of Patients (5400) did not required referrals. Among those 
 ### Peak busy Periods:
 The busiest day were Mondays (1377 Patients), Saturdays (1322 Patients), and Tuesdays (1318 Patients). The busiest hours were 11 AM, 7 PM, 01 PM, and 11 PM indicating need of ample staffing during these periods.
 ### Patient Demographics:
-#####Age Groups: Adults (30-39 Years) formed a large group (1200 Patients), followed by young adults (20-29 Years) with 1188 Patients. Other significant groups included middle aged as well (40-50 Years).
+##### Age Groups: 
+Adults (30-39 Years) formed a large group (1200 Patients), followed by young adults (20-29 Years) with 1188 Patients. Other significant groups included middle aged as well (40-50 Years).
 ### Race Distribution:
 The largest racial group was White (2571), followed by African American (1951), multi racial (1557), and Asian (1060) patients. A significant number of patients (1030) declined to identify their race.
 ### Admission Patterns:
@@ -53,8 +54,8 @@ The dataset reveals high patient volumes, moderate satisfaction levels, and comm
 - **Microsoft Excel (Data Cleaning)**
 
 ## 📢 Business Impact
-This dashboard helps hospitals:
-✅ **Reduce wait times** by identifying peak hours.  
-✅ **Optimize staffing** based on patient volume trends.  
-✅ **Enhance service quality** by analyzing patient satisfaction scores.  
-✅ **Improve department efficiency** through referral analysis.  
+This dashboard helps hospitals:  
+**Reduce wait times** by identifying peak hours.    
+**Optimize staffing** based on patient volume trends.    
+**Enhance service quality** by analyzing patient satisfaction scores.    
+**Improve department efficiency** through referral analysis.    
