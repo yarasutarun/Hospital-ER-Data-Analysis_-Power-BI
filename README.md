@@ -35,8 +35,8 @@ Adults (30-39 Years) formed a large group (1200 Patients), followed by young adu
 ### Race Distribution:
 The largest racial group was White (2571), followed by African American (1951), multi racial (1557), and Asian (1060) patients. A significant number of patients (1030) declined to identify their race.
 ### Admission Patterns:
-Nearly half of the patients (4612) were admitted, while the rest (4604) were treated and released.
-##Summary:
+Nearly half of the patients (4612) were admitted, while the rest (4604) were treated and released.  
+## Summary:
 The dataset reveals high patient volumes, moderate satisfaction levels, and common referrals to General Practice and Orthopedics. Mondays and late night to early mornings hours are particularly busy. The patient demographics show a diverse age and racial composition, with nearly equal numbers of admitted and non admitted patients. These insights can help optimize resource allocation and improve patient care in the emergency room.
 
 ## 🚀 How to Use
